@@ -9,6 +9,13 @@ sentiment analysis using HuggingFace transformers in Python.
 
 ---
 
+Required Packages: transformers, torch, numpy, pandas
+
+```python3
+pip3 install transformers torch numpy pandas
+```
+
+
 Model: https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english
 
 dataset: https://www.kaggle.com/datasets/yessicatuteja/sentiment-analysis-of-tweets
