@@ -14,7 +14,7 @@ dataset: https://www.kaggle.com/datasets/yessicatuteja/sentiment-analysis-of-twe
 
 
 ```bash
-(p3) kant@APPLEs-MacBook-Pro Desktop % python -u "/Users/kant/Desktop/sentiment-analysis.py"
+(p3) lynk@APPLEs-MacBook-Pro Desktop % python -u "/Users/lynk/Desktop/sentiment-analysis.py"
 2024-06-25 21:14:23.221164: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
 To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
 /opt/miniconda3/envs/p3/lib/python3.11/site-packages/threadpoolctl.py:1214: RuntimeWarning: 
